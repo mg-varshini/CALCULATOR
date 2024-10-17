@@ -35,11 +35,14 @@ form .display{
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    
 }
 form .display input{
     display: flex;
     flex:1;
     text-align: end;
+    color: white;
+    background: none;
 }
 form input.equal{
     width: 145px;
